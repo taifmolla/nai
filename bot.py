@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 # TELEGRAM CONFIG
 api_id = 37280263
 api_hash = "3bc9f61f62dcf12c10e52fd5029aaf1e"
-bot_token = "8752025289:AAH6lULEnlyzmu-VdzuN-zbh-qks0Dlyyz4"
+bot_token = "8705549927:AAEBuDoqcc09cMAmVWYInlFdAQ8hVB7OxH0"
 
 ADMIN_ID = 8522857875
 
